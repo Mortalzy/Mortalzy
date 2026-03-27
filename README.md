@@ -1,4 +1,4 @@
-# Gilbert Bates / frontend developer
+# Vorontsov Maxim / frontend developer
 ###
 
 <p align="left">
