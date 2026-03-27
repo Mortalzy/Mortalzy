@@ -24,9 +24,9 @@
 <h3 align="left">My projects</h3>
 
 <p align="left">
-  <a href="https://github.com/Mortalzy/BreakingBadSheduleWallpaper">📌🖼 Breaking Bad Shedule Wallpaper</a><br>
+  <a href="https://github.com/Mortalzy/BreakingBadSheduleWallpaper">🖼 Breaking Bad Shedule Wallpaper</a><br>
   <a href="https://github.com/Mortalzy/TodoListReact">📌 Todo List React </a><br>
-  <a href="https://github.com/Mortalzy/FoodAnalyzer">🌐 Food Analyzer</a>
+  <a href="https://github.com/Mortalzy/FoodAnalyzer">🍔 Food Analyzer</a>
 </p>
 
 ###
